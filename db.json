@@ -1,0 +1,43 @@
+{
+  "users": {
+    "6393412744": {
+      "id": 6393412744,
+      "first_name": "....",
+      "username": "Boossyes",
+      "created_at": "2026-02-18T18:43:07.757495+00:00",
+      "total_conversions": 0,
+      "banned": false,
+      "last_seen": "2026-02-18T18:52:05.682500+00:00"
+    },
+    "591936556": {
+      "id": 591936556,
+      "first_name": "Azizbek",
+      "username": "uznexusx",
+      "created_at": "2026-02-18T18:45:51.972901+00:00",
+      "total_conversions": 3,
+      "banned": false,
+      "last_seen": "2026-02-18T18:58:16.036318+00:00"
+    }
+  },
+  "channels": [
+    {
+      "username": "@uzdevnet",
+      "link": "https://t.me/uzdevnet",
+      "title": "UzDevNet"
+    },
+    {
+      "username": "@neargouz",
+      "link": "https://t.me/neargouz",
+      "title": "nergo"
+    }
+  ],
+  "settings": {
+    "notify_admin": true
+  },
+  "stats": {
+    "total_conversions": 3,
+    "daily": {
+      "2026-02-18": 3
+    }
+  }
+}

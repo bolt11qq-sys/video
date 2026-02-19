@@ -1,0 +1,27 @@
+{
+  "users": {
+    "6393412744": {
+      "id": 6393412744,
+      "first_name": "....",
+      "username": "Boossyes",
+      "created_at": "2026-01-25T16:05:53.144219",
+      "last_seen": "2026-02-18T18:32:10.750746+00:00",
+      "total_conversions": 6
+    },
+    "591936556": {
+      "id": 591936556,
+      "first_name": "Azizbek",
+      "username": "uznexusx",
+      "created_at": "2026-01-25T16:20:07.296556",
+      "last_seen": "2026-02-18T18:41:56.663248+00:00",
+      "total_conversions": 1
+    },
+    "6001254724": {
+      "id": 6001254724,
+      "first_name": "Azimov Shuxrat",
+      "username": "bossyess",
+      "created_at": "2026-01-26T11:51:51.476087",
+      "last_seen": "2026-01-26T11:52:02.850249"
+    }
+  }
+}
